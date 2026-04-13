@@ -38,6 +38,20 @@ He made fun someone named "Zongster" for having cancer, and made his role "Cance
 
 <img width="338" height="266" alt="image" src="https://github.com/user-attachments/assets/ef99400d-297a-4894-9eb3-cd2ffe3f973f" />
 
+### EON USING MOMENTUM BACKEND, THEN CRYING THAT THEIR SERVICE WENT DOWN BECAUSE OF A SIMPLE EXPLOIT
+
+<img width="1080" height="1183" alt="image" src="https://github.com/user-attachments/assets/734d272c-ddb5-4478-b062-cfe4c45aa343" />
+<img width="990" height="328" alt="image" src="https://github.com/user-attachments/assets/0132c4be-cb80-413a-8f6d-ea18e2ce2173" />
+
+## EON USING AI TO ADD "Performance settings"
+
+<img width="1249" height="711" alt="image" src="https://github.com/user-attachments/assets/e17343a6-6011-4232-b868-f2e4d51e330b" />
+
+## EON SILENCING THE TRUTH, ANYONE WHO SPEAKS ABOUT THE TRUTH (REWINDS SIDE) GETS BANNED
+
+<img width="456" height="192" alt="image" src="https://github.com/user-attachments/assets/f616799a-2623-419e-8413-5b0225f2a2c6" />
+
+
 ### EON STEALING THE REWIND LOGIN PAGE AND USING AI TO REWORK IT
 Eon's login & donation page is a stolen source from Rewind, they simply used AI to make it look different.
 
