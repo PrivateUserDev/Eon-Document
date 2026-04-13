@@ -42,16 +42,27 @@ He made fun someone named "Zongster" for having cancer, and made his role "Cance
 
 <img width="1080" height="1183" alt="image" src="https://github.com/user-attachments/assets/734d272c-ddb5-4478-b062-cfe4c45aa343" />
 <img width="990" height="328" alt="image" src="https://github.com/user-attachments/assets/0132c4be-cb80-413a-8f6d-ea18e2ce2173" />
+<img width="1324" height="600" alt="image" src="https://github.com/user-attachments/assets/a3f95038-40ee-4d3c-a2ae-ab4226f4cb2e" />
 
-## EON USING AI TO ADD "Performance settings"
+
+### EON USING AI TO ADD "Performance settings"
 
 <img width="1249" height="711" alt="image" src="https://github.com/user-attachments/assets/e17343a6-6011-4232-b868-f2e4d51e330b" />
 
-## EON SILENCING THE TRUTH, ANYONE WHO SPEAKS ABOUT THE TRUTH (REWINDS SIDE) GETS BANNED
+### EON SILENCING THE TRUTH, ANYONE WHO SPEAKS ABOUT THE TRUTH (REWINDS SIDE) GETS BANNED
 
 <img width="456" height="192" alt="image" src="https://github.com/user-attachments/assets/f616799a-2623-419e-8413-5b0225f2a2c6" />
 
+### EON ABUSING THEIR ACTIVE PLAYERS TO REPORT A SERVER
+Anyone who reported the rewind server would receive free donate packs (Eon also did this to other projects many times before, like Solaris..)
+
+<img width="1022" height="44" alt="image" src="https://github.com/user-attachments/assets/dd083359-4af2-46f2-a229-80876ee665ab" />
+
+### EON STEALING OTHER PEOPLE's WORK FOR THEIR CUSTOM COSMETICS
+
+<img width="398" height="327" alt="image" src="https://github.com/user-attachments/assets/b9359395-e20e-4719-b1c8-bc5450c9c6f8" />
+<img width="343" height="112" alt="image" src="https://github.com/user-attachments/assets/f1003acd-ee66-474a-bd18-7a77f18f224f" />
 
 ### EON STEALING THE REWIND LOGIN PAGE AND USING AI TO REWORK IT
 Eon's login & donation page is a stolen source from Rewind, they simply used AI to make it look different.
-
+you can compare the eon's login page with an old video from rewind (around december)
