@@ -7,6 +7,8 @@ We've seen some people complain about a recent notification made in Eon related 
 ### WHAT ACTUALLY HAPPENED:
 - Multiple people **Including me** found a way to crash eon's backend, we NEVER launched a "DDoS" against them. A DDoS (Distributed Denial of Service) would mean a botnet is involved. Which is alot more complicated then **What actually happened.**
 
+***THIS WAS NEVER A DDOS, IT WAS A SIMPLE EXPLOIT THAT CAUSED THE BACKEND TO CRASH.***
+
 ### Why did i and other people crash the eon backend?
 - Eon claims their project is self-made, which it isn't; (More described in the web page)
 - Recently Eon stole the entire Rewind Login and donation page and used ai to make it look different, they are **still denying this** (more described down this page)
@@ -25,7 +27,17 @@ He doxxed this random guy that antonio "rios old partner" sent to rios dms
 
 <img width="1080" height="1235" alt="image" src="https://github.com/user-attachments/assets/922a8099-4f14-4a64-9d95-59eb2ecdeff3" />
 
+### EON OWNER BEING VERY DISRESPECTFUL TO THEIR DEVS
+EON OWNER (DAVID / GREENWOOD / RIO) getting mad that his dev didn't instantly reply to him (during thanksgiving)
+
+<img width="697" height="626" alt="image" src="https://github.com/user-attachments/assets/6466f70a-d52d-4b49-b964-bbff3b0f5242" />
+
+
 ### EON OWNER MAKING FUN OF PEOPLE WHO HAVE CANCER.
 He made fun someone named "Zongster" for having cancer, and made his role "Cancer Paitient" which is very disrepectful
 
 <img width="338" height="266" alt="image" src="https://github.com/user-attachments/assets/ef99400d-297a-4894-9eb3-cd2ffe3f973f" />
+
+### EON STEALING THE REWIND LOGIN PAGE AND USING AI TO REWORK IT
+Eon's login & donation page is a stolen source from Rewind, they simply used AI to make it look different.
+
