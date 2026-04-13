@@ -57,6 +57,8 @@ He made fun someone named "Zongster" for having cancer, and made his role "Cance
 Anyone who reported the rewind server would receive free donate packs (Eon also did this to other projects many times before, like Solaris..)
 
 <img width="1022" height="44" alt="image" src="https://github.com/user-attachments/assets/dd083359-4af2-46f2-a229-80876ee665ab" />
+<img width="1284" height="778" alt="image" src="https://github.com/user-attachments/assets/13dead48-b324-448d-844f-8f4d30d789bf" />
+
 
 ### EON STEALING OTHER PEOPLE's WORK FOR THEIR CUSTOM COSMETICS
 
